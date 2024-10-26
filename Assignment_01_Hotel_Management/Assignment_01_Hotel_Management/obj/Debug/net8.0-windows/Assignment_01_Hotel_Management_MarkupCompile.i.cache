@@ -1,0 +1,20 @@
+﻿Assignment_01_Hotel_Management
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\VS22 Files\Assignment_01_Hotel_Management\Assignment_01_Hotel_Management\Assignment_01_Hotel_Management\Assignment_01_Hotel_Management\obj\Debug\net8.0-windows\
+Assignment_01_Hotel_Management
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+
+14-1156429497
+
+251353626537
+198-556154604
+WPFApps\Admin\AdminDashboardWindow.xaml;WPFApps\Admin\ManageRoom\AddRoomWindow.xaml;WPFApps\Admin\ManageRoom\AdminManageRoomWindow.xaml;WPFApps\Admin\ManageRoom\EditRoomWindow.xaml;WPFApps\Admin\ManageUser\AddCustomerWindow.xaml;WPFApps\Admin\ManageUser\AdminManageCustomerWindow.xaml;WPFApps\Admin\ManageUser\EditCustomerWindow.xaml;WPFApps\App.xaml;WPFApps\Authenticate\LoginWindow.xaml;WPFApps\MainWindow.xaml;WPFApps\User\CustomerBookingWindow.xaml;WPFApps\User\CustomerDashboardWindow.xaml;WPFApps\User\CustomerProfileWindow.xaml;WPFApps\User\ViewHistoryBookingWindow.xaml;
+
+True
+

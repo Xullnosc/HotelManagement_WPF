@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\user\\viewhistorybookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\user\\viewhistorybookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\user\\customerdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\user\\customerdashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\user\\customerbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\user\\customerbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\authenticate\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\authenticate\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\authenticate\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\authenticate\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\manageroom\\addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\manageroom\\addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\user\\viewhistorybookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\user\\viewhistorybookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\user\\customerprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\user\\customerprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\user\\customerdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\user\\customerdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\admindashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\admindashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\user\\customerbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\user\\customerbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\manageroom\\adminmanageroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\manageroom\\adminmanageroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\manageroom\\editroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\manageroom\\editroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\manageuser\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\manageuser\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\manageuser\\editcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\manageuser\\editcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\manageuser\\adminmanagecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\manageuser\\adminmanagecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\manageuser\\adminmanagecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\manageuser\\adminmanagecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|d:\\vs22 files\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\assignment_01_hotel_management\\wpfapps\\admin\\manageroom\\adminmanageroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80102800-E762-429E-850C-F20AD66EF4C0}|Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management.csproj|solutionrelative:assignment_01_hotel_management\\wpfapps\\admin\\manageroom\\adminmanageroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewHistoryBookingWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\ViewHistoryBookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\User\\ViewHistoryBookingWindow.xaml.cs",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\ViewHistoryBookingWindow.xaml.cs",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\User\\ViewHistoryBookingWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:16:18.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDashboardWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerDashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerDashboardWindow.xaml.cs",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerDashboardWindow.xaml.cs",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerDashboardWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:16:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerBookingWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerBookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerBookingWindow.xaml.cs",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerBookingWindow.xaml.cs",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerBookingWindow.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:15:29.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Authenticate\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Authenticate\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Authenticate\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Authenticate\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:15:24.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDashboardWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerDashboardWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerDashboardWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerDashboardWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerDashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:08:50.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerProfileWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerProfileWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerProfileWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerProfileWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:09:01.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewHistoryBookingWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\ViewHistoryBookingWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\User\\ViewHistoryBookingWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\ViewHistoryBookingWindow.xaml*",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\User\\ViewHistoryBookingWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:09:14.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRoomWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AddRoomWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AddRoomWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AddRoomWindow.xaml*",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AddRoomWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:12:59.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Authenticate\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Authenticate\\LoginWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Authenticate\\LoginWindow.xaml*",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Authenticate\\LoginWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:06:03.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDashboardWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\AdminDashboardWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\AdminDashboardWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\AdminDashboardWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\AdminDashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:11:58.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerBookingWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerBookingWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerBookingWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerBookingWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\User\\CustomerBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:05:09.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminManageRoomWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AdminManageRoomWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AdminManageRoomWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AdminManageRoomWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AdminManageRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T18:51:50.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditRoomWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\EditRoomWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\EditRoomWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\EditRoomWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\EditRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:13:20.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AddCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AddCustomerWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AddCustomerWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AddCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:12:16.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\EditCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\EditCustomerWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\EditCustomerWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\EditCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:12:43.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminManageCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AdminManageCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AdminManageCustomerWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AdminManageCustomerWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AdminManageCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T18:52:40.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\MainWindow.xaml",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:04:54.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminManageCustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AdminManageCustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AdminManageCustomerWindow.xaml.cs",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AdminManageCustomerWindow.xaml.cs",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageUser\\AdminManageCustomerWindow.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv1oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:52:53.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminManageRoomWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AdminManageRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AdminManageRoomWindow.xaml.cs",
+              "ToolTip": "D:\\VS22 Files\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AdminManageRoomWindow.xaml.cs",
+              "RelativeToolTip": "Assignment_01_Hotel_Management\\WPFApps\\Admin\\ManageRoom\\AdminManageRoomWindow.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:52:15.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

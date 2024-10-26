@@ -1,0 +1,40 @@
+﻿<Window x:Class="Assignment_01_Hotel_Management.WPFApps.User.CustomerDashboardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment_01_Hotel_Management.WPFApps.User"
+        mc:Ignorable="d"
+        Title="CustomerDashboardWindow" Height="400" Width="400">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF1D3981" Offset="0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock Text="Welcome to FU Hotel" FontSize="18" FontWeight="Bold"
+                   HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,29,0,0"/>
+
+        <!-- Button to view profile -->
+        <Button Content="View Profile" Click="ViewProfile_Click"
+                VerticalAlignment="Top" HorizontalAlignment="Center" 
+                Width="200" Height="40" Margin="0,102,0,0"/>
+
+        <!-- Button to book a room -->
+        <Button Content="Book a Room" Click="ViewBooking_Click"
+                VerticalAlignment="Top" HorizontalAlignment="Center" 
+                Width="200" Height="40" Margin="0,142,0,0"/>
+
+        <!-- Button to view booking history -->
+        <Button Content="View Booking History" Click="ViewHistoryBooking_Click"
+                VerticalAlignment="Top" HorizontalAlignment="Center" 
+                Width="200" Height="40" Margin="0,182,0,0"/>
+
+        <!-- Button to logout -->
+        <Button Content="Logout" Click="Logout_Click"
+        VerticalAlignment="Top" HorizontalAlignment="Center" 
+        Width="200" Height="40" Margin="0,222,0,0"/>
+
+    </Grid>
+</Window>
